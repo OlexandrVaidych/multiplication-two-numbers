@@ -1,0 +1,16 @@
+C:\Users\10lex\source\repos\MultiplicationTwoNumbers\MultiplicationTwoNumbers\bin\Debug\net5.0\MultiplicationTwoNumbers.exe
+C:\Users\10lex\source\repos\MultiplicationTwoNumbers\MultiplicationTwoNumbers\bin\Debug\net5.0\MultiplicationTwoNumbers.deps.json
+C:\Users\10lex\source\repos\MultiplicationTwoNumbers\MultiplicationTwoNumbers\bin\Debug\net5.0\MultiplicationTwoNumbers.runtimeconfig.json
+C:\Users\10lex\source\repos\MultiplicationTwoNumbers\MultiplicationTwoNumbers\bin\Debug\net5.0\MultiplicationTwoNumbers.runtimeconfig.dev.json
+C:\Users\10lex\source\repos\MultiplicationTwoNumbers\MultiplicationTwoNumbers\bin\Debug\net5.0\MultiplicationTwoNumbers.dll
+C:\Users\10lex\source\repos\MultiplicationTwoNumbers\MultiplicationTwoNumbers\bin\Debug\net5.0\ref\MultiplicationTwoNumbers.dll
+C:\Users\10lex\source\repos\MultiplicationTwoNumbers\MultiplicationTwoNumbers\bin\Debug\net5.0\MultiplicationTwoNumbers.pdb
+C:\Users\10lex\source\repos\MultiplicationTwoNumbers\MultiplicationTwoNumbers\obj\Debug\net5.0\MultiplicationTwoNumbers.csproj.AssemblyReference.cache
+C:\Users\10lex\source\repos\MultiplicationTwoNumbers\MultiplicationTwoNumbers\obj\Debug\net5.0\MultiplicationTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10lex\source\repos\MultiplicationTwoNumbers\MultiplicationTwoNumbers\obj\Debug\net5.0\MultiplicationTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\10lex\source\repos\MultiplicationTwoNumbers\MultiplicationTwoNumbers\obj\Debug\net5.0\MultiplicationTwoNumbers.AssemblyInfo.cs
+C:\Users\10lex\source\repos\MultiplicationTwoNumbers\MultiplicationTwoNumbers\obj\Debug\net5.0\MultiplicationTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\10lex\source\repos\MultiplicationTwoNumbers\MultiplicationTwoNumbers\obj\Debug\net5.0\MultiplicationTwoNumbers.dll
+C:\Users\10lex\source\repos\MultiplicationTwoNumbers\MultiplicationTwoNumbers\obj\Debug\net5.0\ref\MultiplicationTwoNumbers.dll
+C:\Users\10lex\source\repos\MultiplicationTwoNumbers\MultiplicationTwoNumbers\obj\Debug\net5.0\MultiplicationTwoNumbers.pdb
+C:\Users\10lex\source\repos\MultiplicationTwoNumbers\MultiplicationTwoNumbers\obj\Debug\net5.0\MultiplicationTwoNumbers.genruntimeconfig.cache
